@@ -1,6 +1,6 @@
 {
     "User": {
       "title": { "string": {} },
-      "userId": { "number": 1 }
+      "userId": { "int": 1 }
     }
   }
