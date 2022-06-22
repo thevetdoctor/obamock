@@ -11,6 +11,15 @@
           "minLength": 10,
           "maxLength": 100
         }
+      },
+      "sex": {
+        "string": [
+          "M",
+          "F",
+        ]
+      },
+      "cover": {
+        "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
       }
     }
   }
